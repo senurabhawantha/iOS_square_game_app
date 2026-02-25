@@ -41,7 +41,7 @@ git clone https://github.com/senurabhawantha/iOS_square_game_app.git
 
 4️⃣ Press ▶ Run
 
-🎯 Project Purpose
+##  🎯 Project Purpose
 
 🎓 Practice Swift programming
 📱 Understand iOS app lifecycle
