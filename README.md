@@ -40,10 +40,3 @@ git clone https://github.com/senurabhawantha/iOS_square_game_app.git
 3️⃣ Select an iOS Simulator or connected device
 
 4️⃣ Press ▶ Run
-
-##  🎯 Project Purpose
-
-🎓 Practice Swift programming
-📱 Understand iOS app lifecycle
-🧠 Implement interactive UI logic
-🚀 Build a foundation for future game development
